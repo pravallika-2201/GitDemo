@@ -8,6 +8,10 @@ public class RestApi
 	public void Enterusername()
 	{
 		System.out.println("enter the user");
+		System.out.println("enter the userid");
+		System.out.println("enter the password");
+		System.out.println("click on login");
+		
 	}
 	@Test
 	public void Deletetheuser()
